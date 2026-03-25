@@ -11,9 +11,13 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
+    "axios": "^1.13.6",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "tailwindcss": "^4.2.2"
+    "react-toastify": "^11.0.5",
+    "surge": "^0.27.3",
+    "tailwindcss": "^4.2.2",
+    "tostify": "^0.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",

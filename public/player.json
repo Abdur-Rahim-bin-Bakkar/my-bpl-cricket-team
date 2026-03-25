@@ -1,0 +1,226 @@
+{
+  "status": "success",
+  "total": 20,
+  "players": [
+    {
+      "id": 1,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "category": "All-Rounder",
+      "icc_ranking_t20": 1,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Left-arm orthodox",
+      "price_usd": 150000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316600/316657.png"
+    },
+    {
+      "id": 2,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "category": "Batsman",
+      "icc_ranking_t20": 35,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "None",
+      "price_usd": 120000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316500/316553.png"
+    },
+    {
+      "id": 3,
+      "name": "Litton Das",
+      "country": "Bangladesh",
+      "category": "Batsman",
+      "icc_ranking_t20": 22,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "None",
+      "price_usd": 110000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/322600/322607.png"
+    },
+    {
+      "id": 4,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "category": "Batsman",
+      "icc_ranking_t20": 40,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "None",
+      "price_usd": 100000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316500/316546.png"
+    },
+    {
+      "id": 5,
+      "name": "Taskin Ahmed",
+      "country": "Bangladesh",
+      "category": "Bowler",
+      "icc_ranking_t20": 20,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm fast",
+      "price_usd": 90000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/322600/322613.png"
+    },
+    {
+      "id": 6,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "category": "Bowler",
+      "icc_ranking_t20": 18,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Left-arm fast",
+      "price_usd": 130000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316600/316608.png"
+    },
+    {
+      "id": 7,
+      "name": "Mehidy Hasan Miraz",
+      "country": "Bangladesh",
+      "category": "All-Rounder",
+      "icc_ranking_t20": 8,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm off-spin",
+      "price_usd": 95000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/322600/322611.png"
+    },
+    {
+      "id": 8,
+      "name": "Shoriful Islam",
+      "country": "Bangladesh",
+      "category": "Bowler",
+      "icc_ranking_t20": 30,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Left-arm fast",
+      "price_usd": 70000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/322600/322615.png"
+    },
+    {
+      "id": 9,
+      "name": "Moeen Ali",
+      "country": "England",
+      "category": "All-Rounder",
+      "icc_ranking_t20": 12,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm off-spin",
+      "price_usd": 140000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316500/316529.png"
+    },
+    {
+      "id": 10,
+      "name": "Dawid Malan",
+      "country": "England",
+      "category": "Batsman",
+      "icc_ranking_t20": 5,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "None",
+      "price_usd": 135000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316500/316531.png"
+    },
+    {
+      "id": 11,
+      "name": "Kyle Mayers",
+      "country": "West Indies",
+      "category": "All-Rounder",
+      "icc_ranking_t20": 25,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm medium",
+      "price_usd": 100000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/322600/322617.png"
+    },
+    {
+      "id": 12,
+      "name": "Shimron Hetmyer",
+      "country": "West Indies",
+      "category": "Batsman",
+      "icc_ranking_t20": 20,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "None",
+      "price_usd": 120000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316500/316535.png"
+    },
+    {
+      "id": 13,
+      "name": "Iftikhar Ahmed",
+      "country": "Pakistan",
+      "category": "All-Rounder",
+      "icc_ranking_t20": 28,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm off-spin",
+      "price_usd": 90000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316500/316543.png"
+    },
+    {
+      "id": 14,
+      "name": "Khushdil Shah",
+      "country": "Pakistan",
+      "category": "All-Rounder",
+      "icc_ranking_t20": 32,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Slow left-arm",
+      "price_usd": 85000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/322600/322620.png"
+    },
+    {
+      "id": 15,
+      "name": "Faheem Ashraf",
+      "country": "Pakistan",
+      "category": "All-Rounder",
+      "icc_ranking_t20": 35,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm medium-fast",
+      "price_usd": 80000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316500/316537.png"
+    },
+    {
+      "id": 16,
+      "name": "Angelo Mathews",
+      "country": "Sri Lanka",
+      "category": "All-Rounder",
+      "icc_ranking_t20": 30,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "Right-arm medium",
+      "price_usd": 95000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316500/316525.png"
+    },
+    {
+      "id": 17,
+      "name": "Hussain Talat",
+      "country": "Pakistan",
+      "category": "All-Rounder",
+      "icc_ranking_t20": 40,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Right-arm medium",
+      "price_usd": 70000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/316500/316539.png"
+    },
+    {
+      "id": 18,
+      "name": "Parvez Hossain Emon",
+      "country": "Bangladesh",
+      "category": "Batsman",
+      "icc_ranking_t20": 60,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "None",
+      "price_usd": 50000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/322600/322623.png"
+    },
+    {
+      "id": 19,
+      "name": "Towhid Hridoy",
+      "country": "Bangladesh",
+      "category": "Batsman",
+      "icc_ranking_t20": 45,
+      "batting_style": "Right-hand bat",
+      "bowling_style": "None",
+      "price_usd": 75000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/322600/322625.png"
+    },
+    {
+      "id": 20,
+      "name": "Nasum Ahmed",
+      "country": "Bangladesh",
+      "category": "Bowler",
+      "icc_ranking_t20": 25,
+      "batting_style": "Left-hand bat",
+      "bowling_style": "Left-arm orthodox",
+      "price_usd": 65000,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/322600/322627.png"
+    }
+  ]
+}
